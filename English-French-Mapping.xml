@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>8173960921287</id>
+    <name><![CDATA[ Dailee Body Wipes - Microwaveable ]]></name>
+    <french_title><![CDATA[Lingettes micro-ondables Dailee]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]></image>
+    <price>4.45</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>CDW48</mpn>
+    <quantity>544</quantity>
+    <product_type><![CDATA[ Accessories ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, RANDOMTAG, Reuse=Disposable, SAS ]]></tags>
+    <barcode><![CDATA[ 8595611628542 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173960986823</id>
+    <name><![CDATA[ Invizi Booster Pads - Maxi ]]></name>
+    <french_title><![CDATA[Inserts absorbants Invizi - Maxi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-booster-pads-maxi ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterLarge.png?v=1740530270 ]]></image>
+    <price>11.45</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>BVH30</mpn>
+    <quantity>100</quantity>
+    <product_type><![CDATA[ Booster Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, dear-import, Range=Essential, Reuse=Disposable, SAS, Style=Booster Pad ]]></tags>
+    <barcode><![CDATA[ 9353912003487 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173961052359</id>
+    <name><![CDATA[ Invizi Waterproof Protector - 90x60cm ]]></name>
+    <french_title><![CDATA[Alèses imperméables Invizi - 90 x 60 cm]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-90x60cm ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsRectangle.png?v=1740530648 ]]></image>
+    <price>11.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EV920</mpn>
+    <quantity>246</quantity>
+    <product_type><![CDATA[ Underpads ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, nav_range="Essential", nav_size="90 x 60cm", nav_style="Protectors - Disposable", Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Chair, ProtectorType=Couch, ProtectorType=Mattress, Range=Essential, Reuse=Disposable, SAS, Style=Protector, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003463 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173961117895</id>
+    <name><![CDATA[ Invizi Waterproof Protector - 60x60cm ]]></name>
+    <french_title><![CDATA[Alèses imperméables Invizi - 60 x 60 cm]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-60x60cm ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsSquare.png?v=1740531508 ]]></image>
+    <price>9.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EV630</mpn>
+    <quantity>46</quantity>
+    <product_type><![CDATA[ Underpads ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, nav_range="Essential", nav_size="60 x 60cm", nav_style="Protectors - Disposable", Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Chair, ProtectorType=Couch, ProtectorType=Mattress, Range=Essential, Reuse=Disposable, SAS, Style=Protector, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003456 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173961150663</id>
+    <name><![CDATA[ Invizi Washable Absorbent Bed Protector With Tucks - Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-washable-absorbent-bed-protector-with-tucks-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVT132.jpg?v=1738044936 ]]></image>
+    <price>59.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVT132S2</mpn>
+    <quantity>143</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003548 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961216199</id>
+    <name><![CDATA[ Invizi Waterproof Pillow Cases - Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-pillow-cases-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/PILLOWCASE-COVERS.jpg?v=1721689859 ]]></image>
+    <price>14.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVPC2</mpn>
+    <quantity>40</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Pillow Case, ProtectorType=Pillow Case, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003838 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961281735</id>
+    <name><![CDATA[ Invizi Waterproof Fitted Sheet - Absorbent Top Layer ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-absorbent-top-layer ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVAFS-main.jpg?v=1738026580 ]]></image>
+    <price>40.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVAFSSE</mpn>
+    <quantity>202</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Absorption Pad, Protect=Fitted Sheet, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003616 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961314503</id>
+    <name><![CDATA[ Invizi Waterproof Fitted Sheet - Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVFS.jpg?v=1738024499 ]]></image>
+    <price>42.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVFSSE2</mpn>
+    <quantity>171</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Fitted Sheet, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003692 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961380039</id>
+    <name><![CDATA[ Invizi Waterproof Duvet Cover ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-duvet-cover ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVDC.jpg?v=1738036814 ]]></image>
+    <price>29.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVDCS</mpn>
+    <quantity>148</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=Queen, Bed=Single, dear-import, Protect=Quilt Cover, ProtectorType=Quilt Cover, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003760 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961445575</id>
+    <name><![CDATA[ Invizi Non-Slip Mat - 60x90cm Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-non-slip-mat-60x90cm-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVN6090.jpg?v=1738025923 ]]></image>
+    <price>26.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EVN6090BK2</mpn>
+    <quantity>40</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, ProtectorType=Floor, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003906 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961543879</id>
+    <name><![CDATA[ Invizi Chair Pad - 50x60cm Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-chair-pad-50x60cm-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV5060.jpg?v=1738043521 ]]></image>
+    <price>19.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EV5060BK2</mpn>
+    <quantity>144</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Chair, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003845 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961642183</id>
+    <name><![CDATA[ Invizi Furniture Protector - 60x90cm Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-furniture-protector-60x90cm-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV6090.jpg?v=1738044151 ]]></image>
+    <price>25.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EV6090BK2</mpn>
+    <quantity>90</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003876 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961674951</id>
+    <name><![CDATA[ Invizi Waterproof Bibs - 3 Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-bibs-3-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CVB.jpg?v=1738038712 ]]></image>
+    <price>19.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>CVBBL3</mpn>
+    <quantity>40</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, ProtectorType=Bib, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003951 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961806023</id>
+    <name><![CDATA[ Invizi Large Protector - 100x100cm Twin Pack ]]></name>
+    <!-- No French title provided -->
+    <link><![CDATA[ https://invizi.eu/products/invizi-large-protector-100x100cm-twin-pack ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV100100.jpg?v=1738025867 ]]></image>
+    <price>34.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>EV100100BK2</mpn>
+    <quantity>48</quantity>
+    <product_type><![CDATA[ Washable Protectors ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, ProtectorType=Floor, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
+    <barcode><![CDATA[ 9353912003920 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8173961838791</id>
+    <name><![CDATA[ Nundies Youth Pants 4-7 Years ]]></name>
+    <french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 4-7 ans]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/nundies-youth-pants-medium-4-7-years ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesMED.png?v=1740531464 ]]></image>
+    <price>8.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
+    <mpn>PVYMM15</mpn>
+    <quantity>506</quantity>
+    <product_type><![CDATA[ Pull-Ups ]]></product_type>
+    <tags><![CDATA[ Age=Youth, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Youth", nav_size="4-7 Years (17-30kg)", nav_style="Pull-Up Pants", Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=40cm, Waist=50cm, Waist=60cm ]]></tags>
+    <barcode><![CDATA[ 9353912003289 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173961937095</id>
+    <name><![CDATA[ Nundies Youth Pants 8-15 Years ]]></name>
+    <french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 8-15 ans]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/nundies-youth-pants-large-8-15-years ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesLRG.png?v=1740531412 ]]></image>
+    <price>8.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
+    <mpn>PVYML12</mpn>
+    <quantity>1483</quantity>
+    <product_type><![CDATA[ All ]]></product_type>
+    <tags><![CDATA[ Age=Youth, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Youth", nav_size="8-15 Years (27-57kg)", nav_style="Pull-Up Pants", Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=40cm, Waist=50cm, Waist=60cm, Waist=70cm ]]></tags>
+    <barcode><![CDATA[ 9353912003272 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173961969863</id>
+    <name><![CDATA[ Invizi Slips - Maxi ]]></name>
+    <french_title><![CDATA[Changes Invizi - Maxi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-slips-maxi ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_SLIPS-MAXI.png?v=1740531374 ]]></image>
+    <price>27.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>NVMS30</mpn>
+    <quantity>482</quantity>
+    <product_type><![CDATA[ All-In-Ones ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Ultra", nav_size="X-Small/Small", nav_style="Slips", Range=Ultra, Reuse=Disposable, SAS, Style=Slip, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=170cm, Waist=180cm, Waist=190cm, Waist=40cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
+    <barcode><![CDATA[ 9353912003234 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962264775</id>
+    <name><![CDATA[ Invizi Pants - Maxi ]]></name>
+    <french_title><![CDATA[Sous-vêtements Invizi - Maxi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pants-maxi ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PANTS-MAXI.png?v=1740531312 ]]></image>
+    <price>13.50</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>PVSS15</mpn>
+    <quantity>309</quantity>
+    <product_type><![CDATA[ Pull-Ups ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Ultra", nav_style="Pull-Up Pants", Range=Ultra, Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
+    <barcode><![CDATA[ 9353912003111 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962330311</id>
+    <name><![CDATA[ Invizi Pants - Plus ]]></name>
+    <french_title><![CDATA[Sous-vêtements Invizi - Plus]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pants-plus ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-pantsplus2.png?v=1740531224 ]]></image>
+    <price>12.50</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>PVPS15</mpn>
+    <quantity>972</quantity>
+    <product_type><![CDATA[ Pull-Ups ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Performance", nav_style="Pull-Up Pants", Range=Performance, Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
+    <barcode><![CDATA[ 9353912003159 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962625223</id>
+    <name><![CDATA[ Invizi Pads - Maxi Plus ]]></name>
+    <french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi Plus]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi-plus ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXIPLUS.png?v=1740529981 ]]></image>
+    <price>12.50</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>DVPSMP30</mpn>
+    <quantity>902</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi PLUS", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003005 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962657991</id>
+    <name><![CDATA[ Invizi Male Guards - Level 3 ]]></name>
+    <french_title><![CDATA[Protections pour hommes - Niveau 3]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-3 ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimagse_GUARDS-L3_1.png?v=1740530229 ]]></image>
+    <price>5.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>GVL315</mpn>
+    <quantity>733</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Male, nav_range="Ultra", nav_size="Level 3 Guard", nav_style="Guards For Men", Range=Ultra, Reuse=Disposable, SAS, Style=Male Guard, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003067 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962723527</id>
+    <name><![CDATA[ Invizi Male Guards - Level 2 ]]></name>
+    <french_title><![CDATA[Protections pour hommes - Niveau 2]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-2 ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_GUARDS-L2_1.png?v=1740530173 ]]></image>
+    <price>5.45</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>GVL215</mpn>
+    <quantity>554</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Male, nav_range="Performance", nav_size="Level 2 Guard", nav_style="Guards For Men", Range=Performance, Reuse=Disposable, SAS, Style=Male Guard, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003074 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962821831</id>
+    <name><![CDATA[ Invizi Pads - Regular ]]></name>
+    <french_title><![CDATA[Serviettes d'incontinence - Régulier]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pads-regular ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-REGULAR.png?v=1740528809 ]]></image>
+    <price>6.45</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>DVPSN30</mpn>
+    <quantity>396</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Performance", nav_size="Lady Normal", nav_style="Pads", Range=Performance, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003036 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962854599</id>
+    <name><![CDATA[ Invizi Pads - Maxi ]]></name>
+    <french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXI.png?v=1740529054 ]]></image>
+    <price>10.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>DVPSM30</mpn>
+    <quantity>294</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad ]]></tags>
+    <barcode><![CDATA[ 9353912003012 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173962952903</id>
+    <name><![CDATA[ Invizi Pads - Extra ]]></name>
+    <french_title><![CDATA[Serviettes d'incontinence Invizi - Extra]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pads-extra ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-EXTRA_1.png?v=1740529647 ]]></image>
+    <price>8.50</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>DVPSE30</mpn>
+    <quantity>218</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Performance", nav_size="Lady Extra", nav_style="Pads", Range=Performance, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
+    <barcode><![CDATA[ 9353912003029 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8173963051207</id>
+    <name><![CDATA[ Donation ]]></name>
+    <french_title><![CDATA[Spende]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/donation-to-carers-network ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Donation.jpg?v=1721690167 ]]></image>
+    <price>0.01</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Donation ]]></manufacturer>
+    <mpn>ROUNDUP</mpn>
+    <quantity>-128384</quantity>
+    <product_type><![CDATA[ product-donation ]]></product_type>
+    <tags><![CDATA[ donation-product ]]></tags>
+    <barcode><![CDATA[ ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8174068793543</id>
+    <name><![CDATA[ Invizi Booster Pads - Mini ]]></name>
+    <french_title><![CDATA[Inserts absorbants Invizi - Mini]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-booster-pads-mini ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterSmall.png?v=1740530481 ]]></image>
+    <price>4.95</price>
+    <instock>out_of_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>BVR24</mpn>
+    <quantity>0</quantity>
+    <product_type><![CDATA[ Booster Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, dear-import, Range=Essential, Reuse=Disposable, SAS, Style=Booster Pad ]]></tags>
+    <barcode><![CDATA[ 9353912003470 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8187899805895</id>
+    <name><![CDATA[ Maxi Plus Pad Product test ]]></name>
+    <french_title><![CDATA[Maxi Plus Binde Produkttest]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/maxi-plus-pad-product-test ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Gallery_445b1323-36e2-4570-bf3f-81eb9429f888.png?v=1724132310 ]]></image>
+    <price>79.90</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
+    <mpn></mpn>
+    <quantity>39</quantity>
+    <product_type><![CDATA[ ]]></product_type>
+    <tags><![CDATA[ ]]></tags>
+    <barcode><![CDATA[ ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8191990988999</id>
+    <name><![CDATA[ Invizi Pads - Maxi (Copy) Test ]]></name>
+    <french_title><![CDATA[Invizi Pads - Maxi (Kopie) Test ]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi-copy-test ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/DDPSM30-uk.jpg?v=1721690155 ]]></image>
+    <price>5.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>DVPSM30</mpn>
+    <quantity>252</quantity>
+    <product_type><![CDATA[ Pads ]]></product_type>
+    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad ]]></tags>
+    <barcode><![CDATA[ 9353912003012 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8238146191559</id>
+    <name><![CDATA[ Dailee Body Wipes - Microwaveable (Copy) ]]></name>
+    <french_title><![CDATA[Dailee Körpertücher - Mikrowellengeeignet]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable-copy ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]></image>
+    <price>4.45</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>CDW48</mpn>
+    <quantity>544</quantity>
+    <product_type><![CDATA[ Accessories ]]></product_type>
+    <tags><![CDATA[ Amazon-UK, dear-import, RANDOMTAG, Reuse=Disposable, SAS ]]></tags>
+    <barcode><![CDATA[ 8595611628542 ]]></barcode>
+    <status>draft</status>
+  </product>
+  <product>
+    <id>8296136966343</id>
+    <name><![CDATA[ Invizi Women's Washable Full Brief ]]></name>
+    <french_title><![CDATA[Culotte femme taille haute Invizi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-full-brief ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-FullBrief_1.png?v=1740634544 ]]></image>
+    <price>29.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>UVLFBS</mpn>
+    <quantity>274</quantity>
+    <product_type><![CDATA[ Washable Underwear ]]></product_type>
+    <tags><![CDATA[ dear-import, SAS ]]></tags>
+    <barcode><![CDATA[ 9353912003340 ]]></barcode>
+    <status>active</status>
+  </product>
+  <product>
+    <id>8296136999111</id>
+    <name><![CDATA[ Invizi Women's Washable Bikini Brief ]]></name>
+    <french_title><![CDATA[Culotte femme taille basse Invizi]]></french_title>
+    <link><![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-bikini-brief ]]></link>
+    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-BikiniBrief_1.png?v=1740634678 ]]></image>
+    <price>24.95</price>
+    <instock>in_stock</instock>
+    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
+    <mpn>UVLBBS</mpn>
+    <quantity>199</quantity>
+    <product_type><![CDATA[ Washable Underwear ]]></product_type>
+    <tags><![CDATA[ dear-import, SAS ]]></tags>
+    <barcode><![CDATA[ 9353912003494 ]]></barcode>
+    <status>active</status>
+  </product>
+</products>
