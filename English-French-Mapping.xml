@@ -1,515 +1,505 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product>
-    <id>8173960921287</id>
-    <name><![CDATA[ Dailee Body Wipes - Microwaveable ]]></name>
-    <french_title><![CDATA[Lingettes micro-ondables Dailee]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]></image>
-    <price>4.45</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>CDW48</mpn>
-    <quantity>544</quantity>
-    <product_type><![CDATA[ Accessories ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, RANDOMTAG, Reuse=Disposable, SAS ]]></tags>
-    <barcode><![CDATA[ 8595611628542 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173960986823</id>
-    <name><![CDATA[ Invizi Booster Pads - Maxi ]]></name>
-    <french_title><![CDATA[Inserts absorbants Invizi - Maxi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-booster-pads-maxi ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterLarge.png?v=1740530270 ]]></image>
-    <price>11.45</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>BVH30</mpn>
-    <quantity>100</quantity>
-    <product_type><![CDATA[ Booster Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, dear-import, Range=Essential, Reuse=Disposable, SAS, Style=Booster Pad ]]></tags>
-    <barcode><![CDATA[ 9353912003487 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173961052359</id>
-    <name><![CDATA[ Invizi Waterproof Protector - 90x60cm ]]></name>
-    <french_title><![CDATA[Alèses imperméables Invizi - 90 x 60 cm]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-90x60cm ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsRectangle.png?v=1740530648 ]]></image>
-    <price>11.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EV920</mpn>
-    <quantity>246</quantity>
-    <product_type><![CDATA[ Underpads ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, nav_range="Essential", nav_size="90 x 60cm", nav_style="Protectors - Disposable", Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Chair, ProtectorType=Couch, ProtectorType=Mattress, Range=Essential, Reuse=Disposable, SAS, Style=Protector, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003463 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173961117895</id>
-    <name><![CDATA[ Invizi Waterproof Protector - 60x60cm ]]></name>
-    <french_title><![CDATA[Alèses imperméables Invizi - 60 x 60 cm]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-60x60cm ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsSquare.png?v=1740531508 ]]></image>
-    <price>9.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EV630</mpn>
-    <quantity>46</quantity>
-    <product_type><![CDATA[ Underpads ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, nav_range="Essential", nav_size="60 x 60cm", nav_style="Protectors - Disposable", Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Chair, ProtectorType=Couch, ProtectorType=Mattress, Range=Essential, Reuse=Disposable, SAS, Style=Protector, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003456 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173961150663</id>
-    <name><![CDATA[ Invizi Washable Absorbent Bed Protector With Tucks - Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-washable-absorbent-bed-protector-with-tucks-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVT132.jpg?v=1738044936 ]]></image>
-    <price>59.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVT132S2</mpn>
-    <quantity>143</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Absorption Pad, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003548 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961216199</id>
-    <name><![CDATA[ Invizi Waterproof Pillow Cases - Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-pillow-cases-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/PILLOWCASE-COVERS.jpg?v=1721689859 ]]></image>
-    <price>14.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVPC2</mpn>
-    <quantity>40</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Pillow Case, ProtectorType=Pillow Case, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003838 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961281735</id>
-    <name><![CDATA[ Invizi Waterproof Fitted Sheet - Absorbent Top Layer ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-absorbent-top-layer ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVAFS-main.jpg?v=1738026580 ]]></image>
-    <price>40.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVAFSSE</mpn>
-    <quantity>202</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Absorption Pad, Protect=Fitted Sheet, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003616 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961314503</id>
-    <name><![CDATA[ Invizi Waterproof Fitted Sheet - Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVFS.jpg?v=1738024499 ]]></image>
-    <price>42.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVFSSE2</mpn>
-    <quantity>171</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=King, Bed=King Single, Bed=Queen, Bed=Single, dear-import, Protect=Fitted Sheet, Protect=Mattress Protector, ProtectorType=Mattress, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003692 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961380039</id>
-    <name><![CDATA[ Invizi Waterproof Duvet Cover ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-duvet-cover ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVDC.jpg?v=1738036814 ]]></image>
-    <price>29.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVDCS</mpn>
-    <quantity>148</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, Bed=Double, Bed=Queen, Bed=Single, dear-import, Protect=Quilt Cover, ProtectorType=Quilt Cover, Range=Essential, Reuse=Washable, SAS, Style=Bedding, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003760 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961445575</id>
-    <name><![CDATA[ Invizi Non-Slip Mat - 60x90cm Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-non-slip-mat-60x90cm-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVN6090.jpg?v=1738025923 ]]></image>
-    <price>26.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EVN6090BK2</mpn>
-    <quantity>40</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, ProtectorType=Floor, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003906 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961543879</id>
-    <name><![CDATA[ Invizi Chair Pad - 50x60cm Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-chair-pad-50x60cm-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV5060.jpg?v=1738043521 ]]></image>
-    <price>19.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EV5060BK2</mpn>
-    <quantity>144</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Chair, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003845 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961642183</id>
-    <name><![CDATA[ Invizi Furniture Protector - 60x90cm Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-furniture-protector-60x90cm-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV6090.jpg?v=1738044151 ]]></image>
-    <price>25.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EV6090BK2</mpn>
-    <quantity>90</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003876 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961674951</id>
-    <name><![CDATA[ Invizi Waterproof Bibs - 3 Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-waterproof-bibs-3-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CVB.jpg?v=1738038712 ]]></image>
-    <price>19.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>CVBBL3</mpn>
-    <quantity>40</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, ProtectorType=Bib, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003951 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961806023</id>
-    <name><![CDATA[ Invizi Large Protector - 100x100cm Twin Pack ]]></name>
-    <!-- No French title provided -->
-    <link><![CDATA[ https://invizi.eu/products/invizi-large-protector-100x100cm-twin-pack ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV100100.jpg?v=1738025867 ]]></image>
-    <price>34.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>EV100100BK2</mpn>
-    <quantity>48</quantity>
-    <product_type><![CDATA[ Washable Protectors ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, Protect=Absorption Pad, ProtectorType=Couch, ProtectorType=Floor, Range=Essential, Reuse=Washable, SAS, Style=Protector ]]></tags>
-    <barcode><![CDATA[ 9353912003920 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8173961838791</id>
-    <name><![CDATA[ Nundies Youth Pants 4-7 Years ]]></name>
-    <french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 4-7 ans]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/nundies-youth-pants-medium-4-7-years ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesMED.png?v=1740531464 ]]></image>
-    <price>8.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
-    <mpn>PVYMM15</mpn>
-    <quantity>506</quantity>
-    <product_type><![CDATA[ Pull-Ups ]]></product_type>
-    <tags><![CDATA[ Age=Youth, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Youth", nav_size="4-7 Years (17-30kg)", nav_style="Pull-Up Pants", Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=40cm, Waist=50cm, Waist=60cm ]]></tags>
-    <barcode><![CDATA[ 9353912003289 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173961937095</id>
-    <name><![CDATA[ Nundies Youth Pants 8-15 Years ]]></name>
-    <french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 8-15 ans]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/nundies-youth-pants-large-8-15-years ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesLRG.png?v=1740531412 ]]></image>
-    <price>8.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
-    <mpn>PVYML12</mpn>
-    <quantity>1483</quantity>
-    <product_type><![CDATA[ All ]]></product_type>
-    <tags><![CDATA[ Age=Youth, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Youth", nav_size="8-15 Years (27-57kg)", nav_style="Pull-Up Pants", Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=40cm, Waist=50cm, Waist=60cm, Waist=70cm ]]></tags>
-    <barcode><![CDATA[ 9353912003272 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173961969863</id>
-    <name><![CDATA[ Invizi Slips - Maxi ]]></name>
-    <french_title><![CDATA[Changes Invizi - Maxi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-slips-maxi ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_SLIPS-MAXI.png?v=1740531374 ]]></image>
-    <price>27.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>NVMS30</mpn>
-    <quantity>482</quantity>
-    <product_type><![CDATA[ All-In-Ones ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Ultra", nav_size="X-Small/Small", nav_style="Slips", Range=Ultra, Reuse=Disposable, SAS, Style=Slip, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=170cm, Waist=180cm, Waist=190cm, Waist=40cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
-    <barcode><![CDATA[ 9353912003234 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962264775</id>
-    <name><![CDATA[ Invizi Pants - Maxi ]]></name>
-    <french_title><![CDATA[Sous-vêtements Invizi - Maxi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pants-maxi ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PANTS-MAXI.png?v=1740531312 ]]></image>
-    <price>13.50</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>PVSS15</mpn>
-    <quantity>309</quantity>
-    <product_type><![CDATA[ Pull-Ups ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Ultra", nav_style="Pull-Up Pants", Range=Ultra, Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
-    <barcode><![CDATA[ 9353912003111 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962330311</id>
-    <name><![CDATA[ Invizi Pants - Plus ]]></name>
-    <french_title><![CDATA[Sous-vêtements Invizi - Plus]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pants-plus ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-pantsplus2.png?v=1740531224 ]]></image>
-    <price>12.50</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>PVPS15</mpn>
-    <quantity>972</quantity>
-    <product_type><![CDATA[ Pull-Ups ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, Gender=Male, nav_range="Performance", nav_style="Pull-Up Pants", Range=Performance, Reuse=Disposable, SAS, Style=Pants, VAT-Threshold_disposablepads, Waist=100cm, Waist=110cm, Waist=120cm, Waist=130cm, Waist=140cm, Waist=150cm, Waist=160cm, Waist=50cm, Waist=60cm, Waist=70cm, Waist=80cm, Waist=90cm ]]></tags>
-    <barcode><![CDATA[ 9353912003159 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962625223</id>
-    <name><![CDATA[ Invizi Pads - Maxi Plus ]]></name>
-    <french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi Plus]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi-plus ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXIPLUS.png?v=1740529981 ]]></image>
-    <price>12.50</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>DVPSMP30</mpn>
-    <quantity>902</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi PLUS", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003005 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962657991</id>
-    <name><![CDATA[ Invizi Male Guards - Level 3 ]]></name>
-    <french_title><![CDATA[Protections pour hommes - Niveau 3]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-3 ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimagse_GUARDS-L3_1.png?v=1740530229 ]]></image>
-    <price>5.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>GVL315</mpn>
-    <quantity>733</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Male, nav_range="Ultra", nav_size="Level 3 Guard", nav_style="Guards For Men", Range=Ultra, Reuse=Disposable, SAS, Style=Male Guard, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003067 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962723527</id>
-    <name><![CDATA[ Invizi Male Guards - Level 2 ]]></name>
-    <french_title><![CDATA[Protections pour hommes - Niveau 2]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-2 ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_GUARDS-L2_1.png?v=1740530173 ]]></image>
-    <price>5.45</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>GVL215</mpn>
-    <quantity>554</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Male, nav_range="Performance", nav_size="Level 2 Guard", nav_style="Guards For Men", Range=Performance, Reuse=Disposable, SAS, Style=Male Guard, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003074 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962821831</id>
-    <name><![CDATA[ Invizi Pads - Regular ]]></name>
-    <french_title><![CDATA[Serviettes d'incontinence - Régulier]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pads-regular ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-REGULAR.png?v=1740528809 ]]></image>
-    <price>6.45</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>DVPSN30</mpn>
-    <quantity>396</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Performance", nav_size="Lady Normal", nav_style="Pads", Range=Performance, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003036 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962854599</id>
-    <name><![CDATA[ Invizi Pads - Maxi ]]></name>
-    <french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXI.png?v=1740529054 ]]></image>
-    <price>10.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>DVPSM30</mpn>
-    <quantity>294</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad ]]></tags>
-    <barcode><![CDATA[ 9353912003012 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173962952903</id>
-    <name><![CDATA[ Invizi Pads - Extra ]]></name>
-    <french_title><![CDATA[Serviettes d'incontinence Invizi - Extra]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pads-extra ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-EXTRA_1.png?v=1740529647 ]]></image>
-    <price>8.50</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>DVPSE30</mpn>
-    <quantity>218</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Performance", nav_size="Lady Extra", nav_style="Pads", Range=Performance, Reuse=Disposable, SAS, Style=Pad, VAT-Threshold_disposablepads ]]></tags>
-    <barcode><![CDATA[ 9353912003029 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8173963051207</id>
-    <name><![CDATA[ Donation ]]></name>
-    <french_title><![CDATA[Spende]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/donation-to-carers-network ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Donation.jpg?v=1721690167 ]]></image>
-    <price>0.01</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Donation ]]></manufacturer>
-    <mpn>ROUNDUP</mpn>
-    <quantity>-128384</quantity>
-    <product_type><![CDATA[ product-donation ]]></product_type>
-    <tags><![CDATA[ donation-product ]]></tags>
-    <barcode><![CDATA[ ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8174068793543</id>
-    <name><![CDATA[ Invizi Booster Pads - Mini ]]></name>
-    <french_title><![CDATA[Inserts absorbants Invizi - Mini]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-booster-pads-mini ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterSmall.png?v=1740530481 ]]></image>
-    <price>4.95</price>
-    <instock>out_of_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>BVR24</mpn>
-    <quantity>0</quantity>
-    <product_type><![CDATA[ Booster Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, dear-import, Range=Essential, Reuse=Disposable, SAS, Style=Booster Pad ]]></tags>
-    <barcode><![CDATA[ 9353912003470 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8187899805895</id>
-    <name><![CDATA[ Maxi Plus Pad Product test ]]></name>
-    <french_title><![CDATA[Maxi Plus Binde Produkttest]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/maxi-plus-pad-product-test ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Gallery_445b1323-36e2-4570-bf3f-81eb9429f888.png?v=1724132310 ]]></image>
-    <price>79.90</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Nundies ]]></manufacturer>
-    <mpn></mpn>
-    <quantity>39</quantity>
-    <product_type><![CDATA[ ]]></product_type>
-    <tags><![CDATA[ ]]></tags>
-    <barcode><![CDATA[ ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8191990988999</id>
-    <name><![CDATA[ Invizi Pads - Maxi (Copy) Test ]]></name>
-    <french_title><![CDATA[Invizi Pads - Maxi (Kopie) Test ]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-pads-maxi-copy-test ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/DDPSM30-uk.jpg?v=1721690155 ]]></image>
-    <price>5.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>DVPSM30</mpn>
-    <quantity>252</quantity>
-    <product_type><![CDATA[ Pads ]]></product_type>
-    <tags><![CDATA[ Age=Adult, Amazon-UK, dear-import, Gender=Female, nav_range="Ultra", nav_size="Lady Maxi", nav_style="Pads", Range=Ultra, Reuse=Disposable, SAS, Style=Pad ]]></tags>
-    <barcode><![CDATA[ 9353912003012 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8238146191559</id>
-    <name><![CDATA[ Dailee Body Wipes - Microwaveable (Copy) ]]></name>
-    <french_title><![CDATA[Dailee Körpertücher - Mikrowellengeeignet]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable-copy ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]></image>
-    <price>4.45</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>CDW48</mpn>
-    <quantity>544</quantity>
-    <product_type><![CDATA[ Accessories ]]></product_type>
-    <tags><![CDATA[ Amazon-UK, dear-import, RANDOMTAG, Reuse=Disposable, SAS ]]></tags>
-    <barcode><![CDATA[ 8595611628542 ]]></barcode>
-    <status>draft</status>
-  </product>
-  <product>
-    <id>8296136966343</id>
-    <name><![CDATA[ Invizi Women's Washable Full Brief ]]></name>
-    <french_title><![CDATA[Culotte femme taille haute Invizi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-full-brief ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-FullBrief_1.png?v=1740634544 ]]></image>
-    <price>29.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>UVLFBS</mpn>
-    <quantity>274</quantity>
-    <product_type><![CDATA[ Washable Underwear ]]></product_type>
-    <tags><![CDATA[ dear-import, SAS ]]></tags>
-    <barcode><![CDATA[ 9353912003340 ]]></barcode>
-    <status>active</status>
-  </product>
-  <product>
-    <id>8296136999111</id>
-    <name><![CDATA[ Invizi Women's Washable Bikini Brief ]]></name>
-    <french_title><![CDATA[Culotte femme taille basse Invizi]]></french_title>
-    <link><![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-bikini-brief ]]></link>
-    <image><![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-BikiniBrief_1.png?v=1740634678 ]]></image>
-    <price>24.95</price>
-    <instock>in_stock</instock>
-    <manufacturer><![CDATA[ Invizi ]]></manufacturer>
-    <mpn>UVLBBS</mpn>
-    <quantity>199</quantity>
-    <product_type><![CDATA[ Washable Underwear ]]></product_type>
-    <tags><![CDATA[ dear-import, SAS ]]></tags>
-    <barcode><![CDATA[ 9353912003494 ]]></barcode>
-    <status>active</status>
-  </product>
+<product>
+<id>8173960921287</id>
+<name>
+<![CDATA[ Dailee Body Wipes - Microwaveable ]]>
+</name>
+<french_title><![CDATA[Lingettes micro-ondables Dailee]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]>
+</image>
+<description>
+<![CDATA[ <p>Protect and nourish your skin with these microwaveable wet wipes.</p> <p>And yes, you read that right! These wipes can be easily warmed in the microwave for added comfort and cleaning power.</p> <p>Made from soft, biodegradable fabric and skin-safe ingredients, these wipes have been dermatologically tested to reduce the risk of irritation and inflammation. How good is that!</p> <h3><br></h3> <h3>What Makes Our Microwaveable Wet Wipes Special</h3> <ul> <li>Enriched with natural Aloe Vera and Chamomile to soothe, heal and protect skin</li> <li>Suitable for all skin types, even the super-sensitive </li> <li>Made with odour-neutralising materials</li> <li>Able to be heated in the microwave for added comfort</li> <li>Super soft yet strong and flexible honeycomb-textured fabric</li> <li>Biodegradable and eco-friendly</li> <li>Proudly formaldehyde-free <br> </li> </ul> <h3><br></h3> <h3>Microwave instructions</h3> <ol> <li>Heat the pack in a microwave with the top label lifted for a maximum of 30 seconds (700W).</li> <li>Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot.</li> <li>Once wipes are at your preferred temperature, you can use on the skin. Do not apply to injured skin. For external use only.</li> </ol> <h3><br></h3> <h3>What you’ll receive</h3> <p>Packs of 48 wipes in a single resealable pack.</p> <p>Please note that while these wipes are biodegradable, they are not to be flushed down the toilet. Please dispose of them in the regular garbage after use.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173960986823</id>
+<name>
+<![CDATA[ Invizi Booster Pads - Maxi ]]>
+</name>
+<french_title><![CDATA[Inserts absorbants Invizi - Maxi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-booster-pads-maxi ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterLarge.png?v=1740530270 ]]>
+</image>
+<description>
+<![CDATA[ <p>Give your Invizi pants and slips a boost with these (you guessed it) booster pads!</p> <p>They're your extra line of defence against leaks. Invisible armour if you will.</p> <p dir="ltr"><span>Designed to sit neatly inside your Invizi pants or slips, these boosters are crafted with materials that maintain skin health and breathability. So not only will you be stress-free, you’ll be comfy too.</span></p> <h2>What Makes Our Boosters Special:</h2> <ul> <li>Neatly sits inside pants &amp; slips with budge-proof adhesive strip</li> <li>Gentle and soft on skin</li> <li>Odour control to keep you feeling fresh</li> <li>Dermatologically tested, hypoallergenic &amp; latex-free</li> <li>Boosts absorption &amp; protection 1000mL maximum capacity, 700mL working capacity</li> </ul> <h2>Sizing</h2> <p>46cm x 15cm. Only 4mm thick.</p> <h2>How to wear</h2> <p dir="ltr"><span>Our booster pads are proportionally designed so can be stuck inside your pants or slips with either side facing forward.</span><b></b></p> <p dir="ltr"><span>Remember, Booster Pads should not be the only protective aid used. They need to be used inside Invizi Pants or Slips. Booster pads are designed to leak into the product beneath when they’re full, which is why wearing them solo is a no-no.</span><span></span></p> ]]>
+</description>
+</product>
+<product>
+<id>8173961052359</id>
+<name>
+<![CDATA[ Invizi Waterproof Protector - 90x60cm ]]>
+</name>
+<french_title><![CDATA[Alèses imperméables Invizi - 90 x 60 cm]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-90x60cm ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsRectangle.png?v=1740530648 ]]>
+</image>
+<description>
+<![CDATA[ <p>Consider your furniture and floors protected!</p> <p> </p> <p>Featuring a soft, cotton-like top sheet, these disposable protectors are super comfortable to lounge on.</p> <p> </p> <p>They're professionals in absorbing any getaway leaks, with liquid drawn in and trapped in the ultra-dry core.</p> <p> </p> <p>Be sure to dispose of them after each use to keep your furniture clean and dry.</p> <p> </p> <h3>What Makes Our Protectors Special</h3> <ul> <li>Cloud soft top sheet to be gentle against skin</li> <li>Rapid-dry materials</li> <li>Waterproof back sheet traps liquid to protect wheelchairs, floors &amp; furniture</li> <li>Four side barriers to stop runaway leaks</li> <li>Strong anti-tear design</li> </ul> <h3> <br>Absorbency</h3> <p>1850mL maximum capacity</p> <p> </p> <h3>Sizing</h3> <p>Each protector is 90x60cm</p> <p> </p> <h3>Invizi tip!</h3> <p>This is protector is made for protecting larger areas like beds, couches or floors from leaks and spills.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961117895</id>
+<name>
+<![CDATA[ Invizi Waterproof Protector - 60x60cm ]]>
+</name>
+<french_title><![CDATA[Alèses imperméables Invizi - 60 x 60 cm]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-protector-60x60cm ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-ProtectorsSquare.png?v=1740531508 ]]>
+</image>
+<description>
+<![CDATA[ <h3>What Makes Our Protectors Special</h3> <ul> <li>Cloud soft top sheet to be gentle against skin</li> <li>Rapid-dry materials</li> <li>Waterproof back sheet traps liquid to protect wheelchairs, floors &amp; furniture</li> <li>Four side barriers to stop runaway leaks</li> <li>Strong anti-tear design</li> </ul> <p> </p> <h3>Absorbency</h3> <p>983mL maximum capacity </p> <p> </p> <h3>Sizing</h3> <p>Each protector is 60x60cm</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961150663</id>
+<name>
+<![CDATA[ Invizi Washable Absorbent Bed Protector With Tucks - Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-washable-absorbent-bed-protector-with-tucks-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVT132.jpg?v=1738044936 ]]>
+</image>
+<description>
+<![CDATA[ <p dir="ltr"><span>Late-night bed changes will become a thing of the past thanks to these waterproof bed protectors. </span></p> <p dir="ltr"><span>Crafted with cushion-soft materials, these protectors quickly draw in and trap liquid, without soaking through to your mattress. And don't worry if you're a restless sleeper, their side tucks keep everything in place. </span></p> <p dir="ltr"><span>A dry, restful night’s sleep awaits!</span></p> <h2 dir="ltr"> <span>What Makes Our Bed Protector With Tucks Special:</span><b></b> </h2> <ul> <li dir="ltr" role="presentation"><span>This is a waterproof &amp; absorbent hybrid that draws liquid in </span></li> <li dir="ltr" role="presentation">Absorbs up to 2900mL</li> <li dir="ltr" role="presentation">Keeps mattress clean and dry</li> <li dir="ltr" role="presentation">Tucks make changing easy</li> <li dir="ltr" role="presentation">Fabric that’s super-soft on the skin</li> <li dir="ltr" role="presentation">Free from nasties: made without latex and formaldehyde</li> <li dir="ltr" role="presentation">Machine washable up to 300 times</li> <li dir="ltr" role="presentation">Can be tumble dried on low heat (below 30℃)</li> </ul> <p> </p> ]]>
+</description>
+</product>
+<product>
+<id>8173961216199</id>
+<name>
+<![CDATA[ Invizi Waterproof Pillow Cases - Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-pillow-cases-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/PILLOWCASE-COVERS.jpg?v=1721689859 ]]>
+</image>
+<description>
+<![CDATA[ ]]>
+</description>
+</product>
+<product>
+<id>8173961281735</id>
+<name>
+<![CDATA[ Invizi Waterproof Fitted Sheet - Absorbent Top Layer ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-absorbent-top-layer ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVAFS-main.jpg?v=1738026580 ]]>
+</image>
+<description>
+<![CDATA[ <p>Sleep easy knowing you and your mattress will be kept dry thanks to this waterproof fitted sheet.</p> <p> </p> <p>Crafted with cushion-soft materials, this fitted sheet quickly draws in, traps and dries liquid, without it soaking through to your mattress. You'll be both rested and dry, ready to take on the day.</p> <p> </p> <h3>What Makes Our Fitted Sheet - Absorbent Top Layer Special</h3> <ul> <li>This is a waterproof &amp; absorbent hybrid </li> <li>Keeps mattress clean and dry</li> <li>Fabric that’s super-soft on the skin</li> <li>Free from nasties: made without latex, formaldehyde and PVC</li> <li>Machine washable up to 300 times</li> <li>Can be tumble dried on low heat (below 30℃)</li> </ul> <h3> <br>Absorbency </h3> <p>1800-2200mL maximum capacity (sizing dependent)</p> <p> </p> <h3>Advanced 3-layer design</h3> <p><strong>Top layer:</strong> A soft quilted material made from a polyester cotton woven fabric.</p> <p><strong>Middle layer:</strong> A highly absorbent layer with 200gsm polyester filling</p> <p><strong>Bottom layer:</strong> The third layer is a woven polyester fabric coated with a waterproof TPU film to prevent moisture from leaking through to the mattress.</p> <p> </p> <h3>Our Fitted Sheets Sizing</h3> <p><strong>Single:</strong> 91x203cm with 38cm skirt</p> <p><strong>Double:</strong> 140x203cm with 38cm skirt</p> <p><strong>King:</strong> 160x203cm with 38cm skirt</p> <p><strong>Grand King:</strong> 183x203cm with 38cm skirt</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961314503</id>
+<name>
+<![CDATA[ Invizi Waterproof Fitted Sheet - Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-fitted-sheet-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVFS.jpg?v=1738024499 ]]>
+</image>
+<description>
+<![CDATA[ <p>Sleep easy knowing you and your mattress will be kept dry thanks to these waterproof fitted sheets.</p> <p> </p> <p>Crafted with cushion-soft materials, these fitted sheets repel liquid, without it soaking through to your mattress. You'll be both rested and dry, ready to take on the day.</p> <p> </p> <h3>What Makes Our Fitted Sheets Special</h3> <ul> <li>Protects your mattress from leaks and stains</li> <li>Fabric that’s super-soft on the skin</li> <li>Free from nasties: made without latex, formaldehyde and PVC</li> <li>Machine washable up to 300 times</li> <li>Can be tumble dried on low heat (below 30℃)</li> <li>Convenient twin-pack</li> </ul> <p> </p> <h3>Sizing </h3> <p><strong>Single:</strong> 91x203cm with 38cm skirt</p> <p><strong>Double:</strong> 140x203cm with 38cm skirt</p> <p><strong>King:</strong> 160x203cm with 38cm skirt</p> <p><strong>Grand King:</strong> 183x203cm with 38cm skirt</p> <p> </p> <h3>Convenient Twin Pack</h3> <p>This is a twin-pack containing two waterproof fitted sheets, meaning you’ve got one handy when the other is in the wash, or you can use each in different bedrooms.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961380039</id>
+<name>
+<![CDATA[ Invizi Waterproof Duvet Cover ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-duvet-cover ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVDC.jpg?v=1738036814 ]]>
+</image>
+<description>
+<![CDATA[ <p>Sleep easy knowing you and your duvet will be kept dry, all thanks to this waterproof cover.</p> <p> </p> <p>Crafted with cushion-soft microfibre material, this cover acts as a waterproof barrier between you and your duvet.</p> <p> </p> <p>So if you have an accident during the night, you'll have one less thing to worry about washing. Go to bed, and wake up, stress and leak free! </p> <p> </p> <h3>What Makes Our Duvet Cover Special</h3> <ul> <li>Repels liquids from soaking through to your duvet</li> <li>Made without nasties like latex, formaldehyde and PVC</li> <li>Made with soft fabric</li> <li>Helps prevent against dust allergies</li> <li>Easy-to-use zip closure</li> <li>Machine washable up to 300 times</li> <li>Can be tumble dried on low heat (below 30℃)</li> </ul> <p> </p> <h3>Our Duvet Cover Sizing</h3> <p><strong>Single:</strong> 140x210cm</p> <p><strong>Double:</strong> 180x210cm</p> <p><strong>King:</strong> 210x210cm</p> <p><strong>Super King:</strong> 240x210cm</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961445575</id>
+<name>
+<![CDATA[ Invizi Non-Slip Mat - 60x90cm Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-non-slip-mat-60x90cm-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EVN6090.jpg?v=1738025923 ]]>
+</image>
+<description>
+<![CDATA[ <p>Protect, wash, dry, repeat.</p> <p> </p> <p>It’s that easy with these non-slip washable protectors which are designed to protect your furniture and floors from spills.</p> <p> </p> <p>These won't be going walkabout either, thanks to their non-stick base preventing them from slipping and sliding on whatever surface you’re using them on. They also prevent you from doing the same!</p> <p> </p> <p>You've got not one, but two protectors. So when one's in the wash, the other is ready for backup - or use them at the same time in different areas of your home. That's what you call a dynamic duo.</p> <p> </p> <h3>What Makes Our Non Slip Mats Special</h3> <ul> <li>They quickly draw in and trap liquid</li> <li>Protect your furniture and floors from spills and stains</li> <li>Soft, plush fabric</li> <li>Free from nasties: made without latex and formaldehyde </li> <li>Machine washable up to 300 times</li> <li>Can be tumble dried on low heat (below 30℃)</li> </ul> <p> </p> <h3>Absorbency</h3> <p>1000mL maximum capacity</p> <p> </p> <h3>Advanced 4-Layer Design</h3> <p><strong>Layer 1: </strong>Super soft, quick-drying fleece</p> <p><strong>Layer 2:</strong> Rayon &amp; polyester blend locks in moisture</p> <p><strong>Layer 3:</strong> Waterproof coating for leak-prevention</p> <p><strong>Layer 4: </strong>Polyester backing with embedded non-slip dots to prevent movement on material surfaces like carpet, flooring and furniture</p> <p> </p> <h3>Convenient Twin Pack</h3> <p>This is a twin-pack containing 2 identical non-slip mats, meaning you’ve got one handy when the other is in the wash, or you can use each in different areas of the home. That’s what we call flexibility!</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961543879</id>
+<name>
+<![CDATA[ Invizi Chair Pad - 50x60cm Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-chair-pad-50x60cm-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV5060.jpg?v=1738043521 ]]>
+</image>
+<description>
+<![CDATA[ <ul></ul> <p> </p> ]]>
+</description>
+</product>
+<product>
+<id>8173961642183</id>
+<name>
+<![CDATA[ Invizi Furniture Protector - 60x90cm Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-furniture-protector-60x90cm-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV6090.jpg?v=1738044151 ]]>
+</image>
+<description>
+<![CDATA[ ]]>
+</description>
+</product>
+<product>
+<id>8173961674951</id>
+<name>
+<![CDATA[ Invizi Waterproof Bibs - 3 Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-waterproof-bibs-3-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CVB.jpg?v=1738038712 ]]>
+</image>
+<description>
+<![CDATA[ <p>Keep clothes and floors fresh with these washable bibs.</p> <p>For all ages and genders, these bibs catch spills with their carefully crafted bottom section, which folds and fastens to create a 14cm deep spill tray. No crumbs on the wearer, or the floor. Genius!</p> <p>The triple pack means you have one bib per meal, or you can have two on rotation while one is in the wash.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961806023</id>
+<name>
+<![CDATA[ Invizi Large Protector - 100x100cm Twin Pack ]]>
+</name>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-large-protector-100x100cm-twin-pack ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/EV100100.jpg?v=1738025867 ]]>
+</image>
+<description>
+<![CDATA[ <p>Protect, wash, dry, repeat.</p> <p> </p> <p>It’s that easy with our 100x100cm washable furniture protectors. Not only can they be thrown into the washing machine up to 300 times, they can also be tumble-dried so they're ready to reuse ASAP.</p> <p> </p> <p>So you can get back to protecting your furniture in no time!</p> <p> </p> <h3>What Makes Our Furniture Protectors Special</h3> <ul> <li>Cover a large surface area</li> <li>They quickly draw in and trap liquid</li> <li>Protect your furniture and floors from spills and stains</li> <li>Soft, plush fabric</li> <li>Free from nasties: made without latex or formaldehyde</li> <li>Machine washable up to 300 times</li> <li>Can be tumble dried on low heat (below 30℃)</li> </ul> <p> </p> <h3>Absorbency</h3> <p>1800mL maximum capacity</p> <p> </p> <h3>Advanced 4-Layer Design</h3> <p><strong>Layer 1:</strong> Super soft, quick-drying fleece</p> <p><strong>Layer 2:</strong> Rayon &amp; polyester blend locks in moisture</p> <p><strong>Layer 3:</strong> Waterproof coating for leak-prevention</p> <p><strong>Layer 4:</strong> Polyester backing for last line of defence</p> <p> </p> <h3>Convenient Twin Pack</h3> <p>This is a twin-pack containing 2 identical protectors, meaning you’ve got one handy when the other is in the wash, or you can use each in different areas of the home. That’s what we call flexibility!</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961838791</id>
+<name>
+<![CDATA[ Nundies Youth Pants 4-7 Years ]]>
+</name>
+<french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 4-7 ans]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/nundies-youth-pants-medium-4-7-years ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesMED.png?v=1740531464 ]]>
+</image>
+<description>
+<![CDATA[ <p>Nundies Youth Pants put a stop to leaks, keeping everything from beds to bottoms dry.</p> <p> </p> <p>And when kids put us on, we hide under their outfits like an invisibility cloak! We take care of incontinence so kids can get back to being kids.</p> <p> </p> <h3>What Makes Nundies Awesome</h3> <ul> <li>They’re made for day &amp; night protection </li> <li>They feel like real undies, super-soft and slim fit</li> <li>Odour busting for up to 12 hours</li> <li>3-Channel superpower absorbency</li> <li>Speed dry technology that lasts up to 12 hours</li> <li>Anti-leak leg guards</li> <li>Breathable, sensory safe materials</li> <li>Dermatologically-tested, hypoallergenic &amp; latex-free</li> <li>Designed for moderate to heavy urinary incontinence, bowel and mixed incontinence</li> <li>"BACK" logo on the back of the pants for the right wear</li> <li>Proudly formaldehyde-free</li> </ul> <h3> <br>Absorbency</h3> <p>800mL maximum capacity</p> <p> </p> <h3>Sizing</h3> <p>For kids aged 4-7 years</p> <p>Weight: 17-30 kg</p> <p>Waist: 40-70 cm</p> <p> </p> <h3>Colour</h3> <p>Sky blue with navy pattern</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These youth pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961937095</id>
+<name>
+<![CDATA[ Nundies Youth Pants 8-15 Years ]]>
+</name>
+<french_title><![CDATA[Sous-vêtements pour enfants/ados Nundies 8-15 ans]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/nundies-youth-pants-large-8-15-years ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-NundiesLRG.png?v=1740531412 ]]>
+</image>
+<description>
+<![CDATA[ <p>Nundies Youth Pants put a stop to leaks, keeping everything from beds to bottoms dry.</p> <p> </p> <p>And when kids put us on, we hide under their outfits like an invisibility cloak! We take care of incontinence so kids can get back to being kids. </p> <p> </p> <h3>What Makes Nundies Awesome</h3> <ul> <li>They’re made for day &amp; night protection </li> <li>They feel like real undies, super-soft and slim fit</li> <li>Odour busting for up to 12 hours</li> <li>3-Channel superpower absorbency</li> <li>Speed dry technology that lasts up to 12 hours</li> <li>Anti-leak leg guards</li> <li>Breathable, sensory safe materials</li> <li>Dermatologically-tested, hypoallergenic &amp; latex-free</li> <li>Designed for moderate to heavy urinary incontinence, bowel and mixed incontinence</li> <li>Proudly formaldehyde-free</li> </ul> <h3> <br>Absorbency</h3> <p>1000mL maximum capacity</p> <p> </p> <h3>Sizing</h3> <p>For teens aged 8-15 years</p> <p>Weight: 27-57 kg</p> <p>Waist: 50-85 cm</p> <p> </p> <h3>Colour</h3> <p>Turquoise with Jade Pattern</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These youth pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173961969863</id>
+<name>
+<![CDATA[ Invizi Slips - Maxi ]]>
+</name>
+<french_title><![CDATA[Changes Invizi - Maxi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-slips-maxi ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_SLIPS-MAXI.png?v=1740531374 ]]>
+</image>
+<description>
+<![CDATA[ <p>Designed for those less mobile, these slips are our highest-absorbing wearable.</p> <p> </p> <p>They’re adaptable to all kinds of bodies and fuss-free to put on and take off, for both the wearer and the carer, thanks to their sticky side tabs.</p> <p> </p> <p>We’re simplifying high-need incontinence care one slip at a time!</p> <p> </p> <h3>What Makes Our Slips Special</h3> <ul> <li>Leak-free day or night wear</li> <li>They let your skin breathe</li> <li>Dermatologically tested, hypoallergenic &amp; latex-free</li> <li>Crafted to fit less mobile wearers</li> <li>Odour-free for up to 12 hours</li> <li>Leg guards and leak barriers for added protection</li> <li>Flash-dry topsheet draws in and dries moisture</li> <li>3-channel advanced absorption technology</li> <li>Breathable backsheet traps runaway leaks</li> <li>Wetness indicator</li> <li>Unisex design</li> </ul> <h3> <br>Absorbency</h3> <p>X-Small: 2200mL maximum capacity</p> <p>Medium: 2700mL maximum capacity</p> <p>Large/X-Large/XX-Large: 3100mL maximum capacity</p> <p> </p> <h3>How to wear </h3> <p>Once you’ve got a pair of Invizi Slip Maxi out of their packaging, softly fold them in half and cup over them back and forth, especially the absorbent pad the slip, with your hands.</p> <p> </p> <p>This helps soften the product to mould to your body for the ultimate Invizi fit, and also activates the leak guards inside the leg openings.</p> <p> </p> <p>Use the sticky tabs to fasten and remove your slip. Make sure they fit snugly around the waist to prevent them falling down or leaking.</p> <p> </p> <h3>Sizing</h3> <p>X-Small: For waists 38 to 105cm, recommended for 38 to 90cm</p> <p>Medium: For waists 80 to 145cm, recommended for 90 to 130cm</p> <p>Large/X-Large: For waists 120 to 170cm, recommended for 130 to 170cm</p> <p>XX-Large: For waists 120 to 190cm, recommended for 160 to 190cm</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962264775</id>
+<name>
+<![CDATA[ Invizi Pants - Maxi ]]>
+</name>
+<french_title><![CDATA[Sous-vêtements Invizi - Maxi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pants-maxi ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PANTS-MAXI.png?v=1740531312 ]]>
+</image>
+<description>
+<![CDATA[ <p>These pants are like underwear, but honestly better.</p> <p> </p> <p>With the highest of absorbencies (hello, overachiever!), our Maxi pants can be trusted to rapidly draw in and dry full bladder voids and manage bowel incontinence without bulk. Pull them on and away you go.</p> <p> </p> <p>Leak-free, comfortable and confident so you can enjoy life’s little (or big) moments.</p> <p> </p> <h3>What Makes Our Pants Special</h3> <ul> <li>They let your skin breathe</li> <li>Dermatologically-tested, hypoallergenic &amp; latex-free</li> <li>Crafted to comfortably hug every body</li> <li>Neutralise odours for up to 12 hours</li> <li>Leg guards and leak barriers for extra protection </li> <li>Wetness indicator to help with changes</li> <li>Flash-dry top sheet draws in moisture, keeps you dry</li> <li>3-channel advanced absorption technology</li> <li>Breathable back sheet traps runaway leaks</li> <li>Unisex design</li> </ul> <h3> <br>Absorbency</h3> <p>2200mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>Once you’ve got a pair of Invizi Pants out of their packaging, softly fold them in half and cup over them back and forth, especially the pad of the pants, with your hands.</p> <p> </p> <p>This helps soften the product to mould to your body for the ultimate Invizi fit, and also activates the leak guards inside the leg openings.</p> <p> </p> <p>To remove, you can either pull the pants down and over the feet or tear at the side seam on one or both sides depending on the wearer’s preference.</p> <p> </p> <h3>Sizing</h3> <p><strong>Small:</strong> Recommended for waists 60 to 100cm (designed to start at 60cm but many customers find it works well down to 50cm)</p> <p><strong>Medium:</strong> Recommended for waists 80 to 120cm</p> <p><strong>Large: </strong>Recommended for waists 110 to 140cm</p> <p><strong>X-Large:</strong> Recommended for waists 135 to 170cm</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962330311</id>
+<name>
+<![CDATA[ Invizi Pants - Plus ]]>
+</name>
+<french_title><![CDATA[Sous-vêtements Invizi - Plus]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pants-plus ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-pantsplus2.png?v=1740531224 ]]>
+</image>
+<description>
+<![CDATA[ <p>These pants are like underwear but, honestly, better.</p> <p> </p> <p>You can trust them to rapidly absorb full bladder voids and light bowel incontinence without bulk. Pull them on and away you go.</p> <p> </p> <p>Leak-free, comfortable and confident so you can enjoy life’s little (or big) moments.</p> <p> </p> <h3>What Makes Our Pants Special</h3> <ul> <li>They let your skin breathe</li> <li>Dermatologically-tested, hypoallergenic &amp; latex-free</li> <li>Crafted to comfortably hug every body</li> <li>Neutralise odours for up to 12 hours</li> <li>Leg guards and leak barriers for extra protection</li> <li>Wetness indicator to make changes easier </li> <li>Flash-dry top sheet draws in moisture, keeps you dry </li> <li>3-channel advanced absorption technology</li> <li>Breathable back sheet traps runaway leaks </li> <li>Unisex design</li> </ul> <h3> <br>Absorbency</h3> <p>1700mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>Once you’ve got a pair of Invizi Pants Plus out of their packaging, softly fold them in half and cup over them back and forth, especially the pad of the pants, with your hands.</p> <p> </p> <p>This helps soften the product to mould to your body for the ultimate Invizi fit, and also activates the leak guards inside the leg openings.</p> <p> </p> <p>To remove, you can either pull the pants down and over the feet or tear at the side seam on one or both sides depending on the wearer’s preference.</p> <p> </p> <h3>Sizing</h3> <p><strong>Small:</strong> Recommended for waists 60 to 100cm (designed to start at 60cm but many customers find it works well down to 50cm)</p> <p><strong>Medium:</strong> Recommended for waists 80 to 120cm</p> <p><strong>Large: </strong>Recommended for waists 110 to 140cm</p> <p><strong>X-Large:</strong> Recommended for waists 135 to 170cm</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962625223</id>
+<name>
+<![CDATA[ Invizi Pads - Maxi Plus ]]>
+</name>
+<french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi Plus]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pads-maxi-plus ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXIPLUS.png?v=1740529981 ]]>
+</image>
+<description>
+<![CDATA[ <p>Our Maxi-Plus pads give you the ultimate pad absorbency.</p> <p> </p> <p>Oh, and the definition of ultimate is being the best or most extreme example of its kind. And that couldn’t be truer for this product.</p> <p> </p> <p>Crafted for heavy bladder leaks and overnight protection, these pads are as effective as they are comfortable to wear. They’re as soft and light as a cloud without compromising on absorbency, thanks to a design you won’t find anywhere else!</p> <p> </p> <h3>What Makes Our Pads Special</h3> <ul> <li>Maxi-Plus are our highest absorbing pads</li> <li>Crafted to fit every body</li> <li>Odour free up to 12 hours</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Budge-proof adhesive strip</li> <li>Flash-dry top sheet draws in moisture</li> <li>Evenly distributes liquid without bulk</li> <li>Breathable back sheet traps runaway leaks</li> <li>Individually wrapped</li> </ul> <h3> <br>Absorbency</h3> <p>1000mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>Our pads are proportionally designed so can be stuck inside the underwear with either side facing forward.</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> <p> </p> ]]>
+</description>
+</product>
+<product>
+<id>8173962657991</id>
+<name>
+<![CDATA[ Invizi Male Guards - Level 3 ]]>
+</name>
+<french_title><![CDATA[Protections pour hommes - Niveau 3]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-3 ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimagse_GUARDS-L3_1.png?v=1740530229 ]]>
+</image>
+<description>
+<![CDATA[ <p>Put simply, these male guards are made to fit the way they should.</p> <p> </p> <p>The highest of two Mens Guards absorbencies, the Level 3 cupped design will fit your body like a glove and absorb any light drips or dribbles in a flash so you can go about your day stress - and leak - free!</p> <p> </p> <h3>What Makes Our Guards Special</h3> <ul> <li>Crafted with a comfortable cup fit</li> <li>Odour free up to 12 hours</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Budge-proof adhesive strip</li> <li>Flash-dry top sheet draws in moisture</li> <li>Evenly distributes liquid without bulk</li> <li>Breathable back sheet traps runaway leaks</li> <li>Individually wrapped</li> </ul> <h3> <br>Absorbency</h3> <p>650mL maximum capacity</p> <h3> <br>How to wear </h3> <p>One side of the guard will have a wider edge, this should be front-facing and stuck in the cup section of your underwear.</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962723527</id>
+<name>
+<![CDATA[ Invizi Male Guards - Level 2 ]]>
+</name>
+<french_title><![CDATA[Protections pour hommes - Niveau 2]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-mens-guards-level-2 ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_GUARDS-L2_1.png?v=1740530173 ]]>
+</image>
+<description>
+<![CDATA[ <p>Put simply, these male guards are made to fit the way they should.</p> <p> </p> <p>Available in two absorbency levels (Level 2 and Level 3), their cupped design will fit your body like a glove and absorb any light drips in a flash so you can go about your day stress - and leak - free! </p> <p> </p> <h3>What Makes Our Guards Special:</h3> <ul> <li>Crafted with a comfortable cup fit</li> <li>Odour free up to 12 hours</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Budge-proof adhesive strip</li> <li>Flash-dry top sheet draws in moisture</li> <li>Evenly distributes liquid without bulk</li> <li>Breathable back sheet traps runaway leaks</li> <li>Individually wrapped</li> </ul> <h3> <br>Absorbency</h3> <p>500mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>One side of the guard will have a wider edge, this should be front-facing and stuck in the cup section of your underwear.</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962821831</id>
+<name>
+<![CDATA[ Invizi Pads - Regular ]]>
+</name>
+<french_title><![CDATA[Serviettes d'incontinence - Régulier]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pads-regular ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-REGULAR.png?v=1740528809 ]]>
+</image>
+<description>
+<![CDATA[ ]]>
+</description>
+</product>
+<product>
+<id>8173962854599</id>
+<name>
+<![CDATA[ Invizi Pads - Maxi ]]>
+</name>
+<french_title><![CDATA[Serviettes d'incontinence Invizi - Maxi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pads-maxi ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-MAXI.png?v=1740529054 ]]>
+</image>
+<description>
+<![CDATA[ <p>These Invizi Maxi pads are designed for heavy bladder leaks, without the bulk.</p> <p> </p> <p>The slimline design of these Maxi pads doesn’t compromise on absorbency, and will rapidly dry any leaks before you can say, “Wow, that was quick!” Their breathable material is kind on the skin and keeps you feeling fresh between changes.</p> <p> </p> <h3>What Makes Our Pads Special</h3> <ul> <li>Slimline design to mould to all bodies</li> <li>Leak barriers for added protection</li> <li>Fast-acting absorbent core</li> <li>Flash-dry top sheet</li> <li>They let your skin breathe</li> <li>Dermatologically tested</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Odour control up to 12 hours</li> <li>Budge-proof adhesive strip</li> <li>Individually wrapped</li> </ul> <h3> <br>Absorbency</h3> <p>730mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>Our pads are proportionally designed so can be stuck inside the underwear with either side facing forward.</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173962952903</id>
+<name>
+<![CDATA[ Invizi Pads - Extra ]]>
+</name>
+<french_title><![CDATA[Serviettes d'incontinence Invizi - Extra]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pads-extra ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages_PADS-EXTRA_1.png?v=1740529647 ]]>
+</image>
+<description>
+<![CDATA[ <p>Just because you need a little extra absorbency, doesn’t mean you should settle for bulky pads!</p> <p> </p> <p>These Invizi Pads - Extra are made for moderate bladder leaks and still have a slimline feel. You’ll barely notice you’re wearing them, thanks to their figure-hugging design. You can trust them to absorb liquid in a flash so you don’t have to worry about leaks.</p> <p> </p> <h3>What Makes Our Pads Special:</h3> <ul> <li>Slimline design to mould to all bodies</li> <li>Leak barriers for added protection</li> <li>Fast-acting absorbent core</li> <li>Flash-dry top sheet</li> <li>They let your skin breathe</li> <li>Dermatologically tested</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Odour control up to 12 hours </li> <li>Budge-proof adhesive strip</li> <li>Individually wrapped<br><br> </li> </ul> <h3>Absorbency</h3> <p>520mL maximum capacity</p> <p> </p> <h3>How to wear</h3> <p>Our pads are proportionally designed so can be stuck inside the underwear with either side facing forward.</p> <p> </p> <h3>Made with the planet in mind</h3> <p>These pants are manufactured using electricity, materials and production processes that are carbon (CO2) neutral.</p> ]]>
+</description>
+</product>
+<product>
+<id>8173963051207</id>
+<name>
+<![CDATA[ Donation ]]>
+</name>
+<french_title><![CDATA[Spende]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/donation-to-carers-network ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Donation.jpg?v=1721690167 ]]>
+</image>
+<description>
+<![CDATA[ <p></p> ]]>
+</description>
+</product>
+<product>
+<id>8174068793543</id>
+<name>
+<![CDATA[ Invizi Booster Pads - Mini ]]>
+</name>
+<french_title><![CDATA[Inserts absorbants Invizi - Mini]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-booster-pads-mini ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/new-heroimages-BoosterSmall.png?v=1740530481 ]]>
+</image>
+<description>
+<![CDATA[ <p>Give your Invizi pants and slips a boost with these (you guessed it) booster pads!</p> <p> </p> <p>They’re your extra line of defence against leaks. Invisible arsenal if you will. Designed to sit neatly inside your Invizi pants or slips, these boosters are crafted with materials that maintain skin health and breathability.</p> <p>So not only will you be stress-free, but you’ll be comfy too.</p> <p> </p> <h3>What Makes Our Boosters Special:</h3> <ul> <li>Gentle on skin and breathable</li> <li>Odour controlling</li> <li>Hypoallergenic, latex-free &amp; formaldehyde-free</li> <li>Ultra-slim design</li> <li>Budge-proof adhesive strip</li> <li>Boosts absorption &amp; protection inside Invizi Pants or Slips</li> </ul> <p><br><meta charset="utf-8"></p> <h3>Absorbency</h3> <p>Absorbency 250mL full working capacity</p> <p> </p> <h3>Sizing</h3> <p>29cm x 9cm. Only 4mm thick.</p> <p> </p> <h3>Invizi tip!</h3> <p>Booster Pads are your backup buddies! They're great for adding extra absorbency, but they shouldn't be your only line of defence. They work best when teamed up with our Invizi Pants or Slips, so that when the booster pad reaches its limit, you've got another layer to keep you feeling confident and dry.</p> ]]>
+</description>
+</product>
+<product>
+<id>8187899805895</id>
+<name>
+<![CDATA[ Maxi Plus Pad Product test ]]>
+</name>
+<french_title><![CDATA[Maxi Plus Binde Produkttest]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/maxi-plus-pad-product-test ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/Gallery_445b1323-36e2-4570-bf3f-81eb9429f888.png?v=1724132310 ]]>
+</image>
+<description>
+<![CDATA[ <p> </p> <div style="border-bottom: 1px solid #298A91; margin-bottom: 15px;" data-mce-style="border-bottom: 1px solid #298A91; margin-bottom: 15px;"> <table style="width: 100%; border: none;" data-mce-style="width: 100%; border: none;"> <tbody> <tr style="border: none;" data-mce-style="border: none;"> <td width="50%" style="vertical-align: top; border: none;" data-mce-style="vertical-align: top; border: none;"> <div align="center" style="color: #298a91; font-weight: bold; font-size: 18px;" data-mce-style="color: #298a91; font-weight: bold; font-size: 18px;">DAILEE BODY HYGIENE WIPES</div> <p style="padding-left: 15px;" data-mce-style="padding-left: 15px;"><em>Dailee is our premium, European-made range of continence management products. All products are ethically made and CO<sub>2</sub> neutral, so they're good for you and for the planet.</em></p> </td> <td width="50%" style="vertical-align: top; border: none;" data-mce-style="vertical-align: top; border: none;"> <div align="center" style="color: #298a91; font-weight: bold; font-size: 18px;" data-mce-style="color: #298a91; font-weight: bold; font-size: 18px;">WIPE SIZE</div> <div align="center" style="color: #298a91; font-size: 18px;" data-mce-style="color: #298a91; font-size: 18px;">XL<br>22cm x 30cm</div> </td> </tr> </tbody> </table> </div> <h3>Dailee Body Hygiene Wipes Delivered To Your Door</h3> <p>Made from soft fabric and ingredients chosen for extra skin protection and health, the Dailee by ConfidenceClub Body Hygiene Wipes are dermatologically tested and confirmed to reduce the risk of skin irritation. These wipes are great for use several times a day to offer all-day comfort and freshness.</p> <p>The wipes are formulated from biodegradable material and are able to be heated in the microwave for less stress during the changing process, adding a greater level of comfort as well as enhanced cleaning effectiveness.</p> <p> </p> <table width="100%" style="border: none;" data-mce-style="border: none;"> <tbody> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" alt="dermatologically tested" src="https://cdn.shopify.com/s/files/1/1801/8113/files/6-dermatologically-tested_36e5859f-16b3-4375-97b5-eb5195da7dae.jpg?v=1692598356" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/6-dermatologically-tested_36e5859f-16b3-4375-97b5-eb5195da7dae.jpg?v=1692598356"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>Dermatologically tested</strong> - suitable for all skin types, these wipes are gentle and skin-friendly, reducing the risk of irritation</td> </tr> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" alt="beneficial plant extracts" src="https://cdn.shopify.com/s/files/1/1801/8113/files/3-aloe-vera_240d680c-8b70-4320-9275-dc5f4bd6d54a.jpg?v=1692598302" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/3-aloe-vera_240d680c-8b70-4320-9275-dc5f4bd6d54a.jpg?v=1692598302"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>Enriched with beneficial extracts</strong> - Natural Aloe Vera and Chamomile, as well as Brassica Campestris Sterols, Bisabolol, and more work together to soothe, heal, and protect skin</td> </tr> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" alt="honeycomb fabric" src="https://cdn.shopify.com/s/files/1/1801/8113/files/5-honeycomb_532825b4-1309-401c-9460-83edf6352d07.jpg?v=1692598336" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/5-honeycomb_532825b4-1309-401c-9460-83edf6352d07.jpg?v=1692598336"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>Extra-soft honeycomb fabric</strong> - silky soft for increased comfort, yet strong and flexible for a better clean</td> </tr> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" alt="active odour control" src="https://cdn.shopify.com/s/files/1/1801/8113/files/7-active-odour-control.jpg?v=1694151476" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/7-active-odour-control.jpg?v=1694151476"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>Odour neutralising material</strong> - enjoy long-lasting freshness with odor-neutralizing materials</td> </tr> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" alt="bio-degradable" src="https://cdn.shopify.com/s/files/1/1801/8113/files/2-bio-degradable_969ce023-eec1-4647-810d-979d56549ef9.jpg?v=1692598280" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/2-bio-degradable_969ce023-eec1-4647-810d-979d56549ef9.jpg?v=1692598280"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>Kind on the planet</strong> - dispose responsibly knowing these wipes are biodegradable and eco-friendly</td> </tr> <tr style="border: none;" data-mce-style="border: none;"> <td width="120" style="border: none;" data-mce-style="border: none;"><img width="120" src="https://cdn.shopify.com/s/files/1/1801/8113/files/1-all-day-comfort_325d5764-e323-4870-8e73-bb8b93ba6db2.jpg?v=1692598266" data-mce-src="https://cdn.shopify.com/s/files/1/1801/8113/files/1-all-day-comfort_325d5764-e323-4870-8e73-bb8b93ba6db2.jpg?v=1692598266"></td> <td style="border: none; padding-left: 15px;" data-mce-style="border: none; padding-left: 15px;"> <strong>All day comfort</strong> - full of skin-loving ingredients for moisturisation and skin protection, as well as reduction of inflammation, irritation and redness</td> </tr> </tbody> </table> <p><span style="color: #808080;" data-mce-style="color: #808080;"><em><strong><br></strong></em></span></p> <h3><strong>Plus they're heatable in the microwave!</strong></h3> <p>Heat in the microwave for a soothing experience that enhances cleaning efficiency during changing routines. The added warmth gives extra comfort and a more effective clean.</p> <p><span style="color: #808080;" data-mce-style="color: #808080;"><em><strong><br></strong></em></span></p> <h3><strong>MICROWAVE INSTRUCTIONS</strong></h3> <p>1. Heat in a microwave with the label lifted for a <strong>maximum of 30 seconds at 700W</strong>.<br>2. Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot.<br>3. Once wipes are at desired temperature, you may use on the skin. Do not apply to injured skin. For external use only.</p> <p><br></p> <h3><strong>Packaging</strong></h3> <ul> <li>Packs of 48 wipes in a single resealable pack</li> <li>Cartons of 12 packs for 576 total wipes</li> </ul> <p> </p> <p><em><strong>Please note that while these wipes are biodegradable, they are not to be flushed down the toilet. Please dispose of them in the regular garbage after use.</strong></em></p> <p><span data-mce-fragment="1">All Dailee products are proudly formaldehyde-free</span></p> <p><span data-mce-fragment="1"><meta charset="utf-8">Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot</span></p> <p><span data-mce-fragment="1"><meta charset="utf-8">Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot</span></p> <p><span data-mce-fragment="1"><strong>bold</strong> normal</span></p> <h1><span data-mce-fragment="1">Heading 1</span></h1> <h2><span data-mce-fragment="1"><meta charset="utf-8">Heading 2</span></h2> <h3><span data-mce-fragment="1"><meta charset="utf-8">Heading 3</span></h3> <h4><span data-mce-fragment="1"><meta charset="utf-8">Heading 4</span></h4> <h5><span data-mce-fragment="1"><meta charset="utf-8">Heading 5</span></h5> <h6><span data-mce-fragment="1"><meta charset="utf-8">Heading 6</span></h6> <h3><span data-mce-fragment="1">Heading 3</span></h3> <p><span data-mce-fragment="1"><meta charset="utf-8">Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot</span></p> <table style="width: 100%; border: none; padding-top: 20px;" data-mce-style="width: 100%; border: none; padding-top: 20px;"> <tbody> <tr style="border: none; background-color: #aacfd5;" data-mce-style="border: none; background-color: #aacfd5;"> <td style="border: none; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;" data-mce-style="border: none; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;"><span data-mce-fragment="1">Product Code: CDW48</span></td> </tr> </tbody> </table> <!----> ]]>
+</description>
+</product>
+<product>
+<id>8191990988999</id>
+<name>
+<![CDATA[ Invizi Pads - Maxi (Copy) Test ]]>
+</name>
+<french_title><![CDATA[Invizi Pads - Maxi (Kopie) Test ]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-pads-maxi-copy-test ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/DDPSM30-uk.jpg?v=1721690155 ]]>
+</image>
+<description>
+<![CDATA[ <div style="border-bottom: 1px solid #298A91; margin-bottom: 15px;"> <table style="width: 100%; border: none;"> <tbody> <tr style="border: none;"> <td width="50%" style="vertical-align: top; border: none;"> <div align="center" style="color: #298a91; font-weight: bold; font-size: 18px;">ABSORBENCY</div> <div align="center" style="color: #298a91; font-size: 18px;">730mL Maximum Capacity</div> <div align="center" style="color: #298a91; font-size: 18px;">292mL - 475mL Working Capacity</div> </td> <td width="50%" style="vertical-align: top; border: none;"> <div align="center" style="color: #298a91; font-weight: bold; font-size: 18px;">SIZE</div> <div align="center" style="color: #298a91; font-size: 18px;">Ultra-thin, 40 x 12cm</div> </td> </tr> </tbody> </table> </div> <p>Dailee Lady by ConfidenceClub match the high absorbency of classic thicker products with the discretion of ultra-thin protection to deliver invisible reliability. Anatomically designed to fit discreetly and comfortably, they provide secure protection for active wearers. Dailee Lady Maxi is ideal for those experiencing moderate bladder weakness with an innovative, fast acting absorption core and leak barriers to keep you fresh and dry.</p> <h3>Features</h3> <ul> <li>Ultra-thin with leak barriers for performance and confidence</li> <li>Innovative Ultra Dry core for fast acting, superior absorbency</li> <li>Anatomical shape and adhesive strips keep pad securely in place</li> <li>Active odour lock keeps you fresh with odour neutralising material</li> <li>Silky soft for superior comfort against delicate skin</li> <li>Discreet size and individually wrapped</li> <li>Suitable for moderate bladder leakage</li> <li>Dermatologically tested, hypoallergenic and latex free</li> </ul> <p> </p> <h3>Orientation</h3> <p>This pad is proportionally designed, so it may be used either side forward.</p> <h3>Packaging</h3> <p>Packs contain 30 pads each.<br>Cartons are 6 packs for a total of 180 pads.</p> <h3>Capacity</h3> <p><strong>Maximum Capacity</strong><span> is the capacity identified in laboratory testing under ISO Standards. The </span><strong>Working Capacity</strong><span> that each user will experience will differ based on a number of factors including whether the user is female or male, the velocity of the flow, whether the user is primarily standing, walking, sitting or lying down when voiding, and more. It is generally accepted that Working Capacity is between 40% to 65% of Maximum Capacity</span></p> <p> <meta charset="utf-8"><span data-mce-fragment="1">All Dailee products are proudly formaldehyde-free</span></p> <table style="width: 100%; border: none; padding-top: 20px;"> <tbody> <tr style="border: none; background-color: #aacfd5;"> <td style="border: none; padding-left: 10px; padding-top: 10px; padding-bottom: 10px;">Product Code: DDPSM30</td> </tr> </tbody> </table> ]]>
+</description>
+</product>
+<product>
+<id>8238146191559</id>
+<name>
+<![CDATA[ Dailee Body Wipes - Microwaveable (Copy) ]]>
+</name>
+<french_title><![CDATA[Dailee Körpertücher - Mikrowellengeeignet]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/dailee-body-wipes-microwaveable-copy ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/hero-Dailee-Wipes_2_1.png?v=1724828311 ]]>
+</image>
+<description>
+<![CDATA[ <p>Protect and nourish your skin with these microwaveable wet wipes.</p> <p>And yes, you read that right! These wipes can be easily warmed in the microwave for added comfort and cleaning power.</p> <p>Made from soft, biodegradable fabric and skin-safe ingredients, these wipes have been dermatologically tested to reduce the risk of irritation and inflammation. How good is that!</p> <h3><br></h3> <h3>What Makes Our Microwaveable Wet Wipes Special</h3> <ul> <li>Enriched with natural Aloe Vera and Chamomile to soothe, heal and protect skin</li> <li>Suitable for all skin types, even the super-sensitive </li> <li>Made with odour-neutralising materials</li> <li>Able to be heated in the microwave for added comfort</li> <li>Super soft yet strong and flexible honeycomb-textured fabric</li> <li>Biodegradable and eco-friendly</li> <li>Proudly formaldehyde-free <br> </li> </ul> <h3><br></h3> <h3>Microwave instructions</h3> <ol> <li>Heat the pack in a microwave with the top label lifted for a maximum of 30 seconds (700W).</li> <li>Wait 20-30 seconds before removing from microwave. CAUTION: The packaging film may be hot.</li> <li>Once wipes are at your preferred temperature, you can use on the skin. Do not apply to injured skin. For external use only.</li> </ol> <h3><br></h3> <h3>What you’ll receive</h3> <p>Packs of 48 wipes in a single resealable pack.</p> <p>Please note that while these wipes are biodegradable, they are not to be flushed down the toilet. Please dispose of them in the regular garbage after use.</p> ]]>
+</description>
+</product>
+<product>
+<id>8296136966343</id>
+<name>
+<![CDATA[ Invizi Women's Washable Full Brief ]]>
+</name>
+<french_title><![CDATA[Culotte femme taille haute Invizi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-full-brief ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-FullBrief_1.png?v=1740634544 ]]>
+</image>
+<description>
+<![CDATA[ <p dir="ltr"><span>Your light leaks are your business and these briefs keep it that way.</span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><b></b></span></p> <p dir="ltr"><span>These full briefs, which absorb up to 100mL, have a removable pad insert to boost absorbency up to 200mL should you need it. So you can go about your day uninterrupted - and dry of course.</span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><b></b></span></p> <p dir="ltr"><span>Their slimline design, which features a trendy lace waistband, fits like a second skin so you'll almost forget you're wearing them!</span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><b></b></span></p> <p dir="ltr"><span>They don't even need too much of your attention. Simply throw them in the wash after each use (and up to 50 times!), air dry, wear, repeat. It's that easy because it should be.</span></p> <p dir="ltr"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><b><br></b></span></p> <h2 dir="ltr"> <span>What Makes Our Washable Full Briefs So Special</span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><b></b></span> </h2> <ul> <li role="presentation" dir="ltr"><span>High-waist fit</span></li> <li role="presentation" dir="ltr"><span>Optional pad insert to boost absorbency up to 200mL</span></li> <li role="presentation" dir="ltr"><span>Made with a hypoallergenic bamboo blend</span></li> <li role="presentation" dir="ltr"><span>Naturally antibacterial</span></li> <li role="presentation" dir="ltr"><span>They Neutralise odours instantly</span></li> <li role="presentation" dir="ltr"><span>Moisture-wicking material</span></li> <li role="presentation" dir="ltr"><span>Zero nasty chemicals like PFAs, chlorine and fluoride</span></li> <li role="presentation" dir="ltr"><span>Trendy lace waistband</span></li> </ul> <h2 role="presentation" dir="ltr"> <span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;"><br></span><span></span><span>Made With The Planet in Mind</span> </h2> <p role="presentation" dir="ltr"><span>These briefs come in forest-friendly packaging that is sustainably made and recyclable to help protect our planet.<b id="docs-internal-guid-20e1cbbd-7fff-754b-dbcf-a32275b9c3b6"><span class="Apple-tab-span"> </span></b></span></p> <p> </p> ]]>
+</description>
+</product>
+<product>
+<id>8296136999111</id>
+<name>
+<![CDATA[ Invizi Women's Washable Bikini Brief ]]>
+</name>
+<french_title><![CDATA[Culotte femme taille basse Invizi]]></french_title>
+<link>
+<![CDATA[ https://invizi.eu/products/invizi-womens-incontinence-bikini-brief ]]>
+</link>
+<image>
+<![CDATA[ https://cdn.shopify.com/s/files/1/0659/8164/4999/files/CC-BikiniBrief_1.png?v=1740634678 ]]>
+</image>
+<description>
+<![CDATA[ <p>Your light leaks are your business and these bikini briefs keep it that way.<br><br></p> <p>With fast-acting absorbency of up to 100mL, you can go about your day uninterrupted - and dry of course. Their slimline design fits like a second skin so you'll almost forget you're wearing them!</p> <p><br>They don't even need too much of your attention. Simply throw them in the wash after each use (and up to 50 times!), dry, wear, repeat. It's that simple, because it should be.<br><br></p> <h2><span>What Makes Our Women's Bikini Briefs So Special:</span></h2> <ul> <li><span>Made with a hypoallergenic bamboo blend</span></li> <li><span>Naturally antibacterial</span></li> <li><span>Neutralise odours instantly</span></li> <li><span>Moisture-wicking material</span></li> <li><span>Zero nasty chemicals like PFAs or chlorine</span></li> </ul> ]]>
+</description>
+</product>
 </products>
